@@ -23,3 +23,7 @@ _(What do they care about? What projects are they working on? What annoys them? 
 - 设计文档：`线性银河恶魔城_设计需求总纲.md`
 - GitHub 仓库：https://github.com/Bai74/linear-metroidvania
 - 偏好中文文件名和工作区结构
+- **所有文件操作都需要逐次审批**，执行前必须确认（包括创建、编辑、删除、移动、重命名文件或目录等任何文件操作）
+- **重要例外**：识别到关键信息（决策、偏好、项目进展、教训）时，**自动**写入 MEMORY.md，无需每次确认
+- gh CLI 路径：`C:\Program Files\GitHub CLI\gh.exe`
+- 账号权限：delete_repo, gist, read:org, repo, workflow
